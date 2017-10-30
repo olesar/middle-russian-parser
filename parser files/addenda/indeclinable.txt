@@ -1,0 +1,327 @@
+в	PR	acc|loc|acc-gen|nom
+въ	PR	acc|loc|acc-gen|nom
+во	PR	acc|loc|acc-gen|nom
+вмѣсто	PR	gen 
+вмѣста	PR	gen 
+вмѣсто	ADV	
+вмѣсте	ADV	
+вмѣсти	ADV	
+вмѣстѣ	ADV	
+вмѣстно	ADV|PRAEDIC
+на	PR	acc|acc-gen|loc|nom|dat|ins
+по	PR	acc|acc-gen|dat|gen|nom|loc
+с	PR	acc|gen|ins|acc-gen|nom
+з	PR	acc|gen|ins|acc-gen|nom
+съ	PR	acc|gen|ins|acc-gen|nom
+со	PR	acc|gen|ins|acc-gen|nom
+за	PR	acc|acc-gen|ins
+от	PR	gen|acc-gen|nom
+отъ	PR	gen|acc-gen|nom
+ѿ	PR	gen|acc-gen|nom
+у	PR	gen|acc-gen|dat|nom
+к	PR	dat
+къ	PR	dat
+ко	PR	dat
+г	PR	dat
+гъ	PR	dat
+кверх	PR	gen
+кверху	PR	gen
+кверху	ADV	
+о	PR	acc|loc|acc-gen|gen
+до	PR	gen|acc-gen|acc|loc|nom
+из	PR	gen|acc-gen
+изъ	PR	gen|acc-gen
+изо	PR	gen|acc-gen
+ис	PR	gen|acc-gen
+исъ	PR	gen|acc-gen
+под	PR	acc|ins
+подъ	PR	acc|ins
+подо	PR	acc|ins
+без	PR	gen|acc-gen
+безъ	PR	gen|acc-gen
+безо	PR	gen|acc-gen
+бес	PR	gen|acc-gen
+бесъ	PR	gen|acc-gen
+бе-	PR	gen|acc-gen
+без-	PR	gen|acc-gen
+ради	PR	gen
+радя	PR	gen
+для	PR	gen
+при	PR	loc|ins
+про	PR	acc|acc-gen
+против	PR	gen|dat
+противѹ	PR	gen|dat
+противо	PR	gen|dat
+после	PR	gen
+после	ADV	
+около	PR	gen
+ѡколо	PR	gen
+около	ADV	
+перед	PR	ins
+пред	PR	ins
+передъ	PR	ins
+предъ	PR	ins
+передо	PR	ins
+предо	PR	ins
+перет	PR	ins
+через	PR	acc|acc-gen
+черезъ	PR	acc|acc-gen
+черезо	PR	acc|acc-gen
+чрез	PR	acc|acc-gen
+чрезъ	PR	acc|acc-gen
+чрезо	PR	acc|acc-gen
+черес	PR	acc|acc-gen
+чрес	PR	acc|acc-gen
+чересъ	PR	acc|acc-gen
+чресъ	PR	acc|acc-gen
+близ	PR	gen|acc-gen|acc
+близъ	PR	gen|acc-gen|acc
+об	PR	acc|acc-gen|loc
+объ	PR	acc|acc-gen|loc
+обь	PR	acc|acc-gen|loc
+обо	PR	acc|acc-gen|loc
+кромѣ	PR	gen|acc-gen
+кроме	PR	gen|acc-gen
+окромѣ	PR	gen|acc-gen
+окроме	PR	gen|acc-gen
+окромѣ	ADV
+окроме	ADV
+подлѣ	PR	gen|acc-gen
+подъле	PR	gen|acc-gen
+возле	PR	gen|acc-gen|acc
+ѡзлѣ	PR	gen|acc-gen|acc
+подале	PR	gen|acc-gen
+дѣлѧ	PR	gen|acc-gen
+дѣля	PR	gen|acc-gen
+делѧ	PR	gen|acc-gen
+деля	PR	gen|acc-gen
+для	PR	gen|acc-gen
+внѣ	PR	gen|acc-gen
+вне	PR	gen|acc-gen
+между	PR	ins|acc|gen
+межьду	PR	ins
+междю	PR	ins
+меже	PR	ins|acc|gen
+межи	PR	ins|acc|gen
+межу	PR	ins|acc|gen
+межю	PR	ins|acc|gen
+межю	ADV	
+межъ	PR	ins|acc
+межь	PR	ins|acc
+промеж	PR	ins|acc
+промежду	PR	ins|acc
+промеже	PR	ins|acc
+промежи	PR	ins|acc
+промежу	PR	ins|acc
+промежю	PR	ins|acc
+промежь	PR	ins|acc
+промежъ	PR	ins|acc
+над	PR	ins|acc|nom
+надъ	PR	ins|acc|nom
+надо	PR	ins|acc|nom
+нат	PR	ins|acc|nom
+среди	PR	gen|acc-gen
+средь	PR	gen|acc-gen
+середи	PR	gen|acc-gen
+середь	PR	gen|acc-gen
+серед	PR	gen|acc-gen
+посреди	PR	gen|acc|acc-gen
+посредии	PR	gen|acc|acc-gen
+посред	PR	gen|acc-gen
+посреде	PR	gen|acc-gen
+посредь	PR	gen|acc-gen
+посредѣ	PR	gen|acc-gen
+посереди	PR	gen|acc-gen
+посередь	PR	gen|acc-gen
+посеред	PR	gen|acc-gen
+посередке	PR	gen|acc-gen
+посередъ	ADV	
+посередь	ADV	
+из-за	PR	gen
+из-за	PR	gen
+из-под	PR	gen|acc-gen
+из-подо	PR	gen|acc-gen
+вокруг	PR	gen
+вокругъ	PR	gen
+округ	PR	gen
+округъ	PR	gen
+вкруг	PR	gen
+вкругъ	PR	gen
+въкруг	PR	gen
+въкругъ	PR	gen
+вокруг	ADV	
+вокругъ	ADV	
+вкруг	ADV	
+вкругъ	ADV	
+въкруг	ADV	
+въкругъ	ADV	
+прежде	PR	gen|acc|acc-gen
+прежде	ADV	
+преждѣ	ADV	
+сквозь	PR	acc|acc-gen
+сквозе	PR	acc|acc-gen
+сквозѣ	PR	acc|acc-gen
+сквось	PR	acc|acc-gen
+сквозь	ADV	
+сквозе	ADV	
+сквозѣ	ADV	
+сквос	ADV	
+сквось	ADV	
+благодаря	PR	acc|acc-gen
+согласно	PR	gen|acc-gen|dat
+мимо	PR	acc|acc-gen|gen
+мимо	ADV	
+помимо	PR	acc|acc-gen|gen
+помимо	ADV	
+вдоль	PR	gen
+вдоль	ADV	
+вдолжь	ADV	
+внутре	ADV	
+внутро	ADV	
+внутръ	ADV	
+внутрь	ADV	
+внутри	ADV	
+внутри	PR	gen|acc-gen
+внутръ	PR	gen|acc|acc-gen
+внутрь	PR	gen|acc|acc-gen
+внутрѣ	PR	gen|acc|acc-gen|loc
+вопреки	ADV	
+свыше	PR	gen|acc-gen
+напротив	PR	gen|acc-gen
+напротивъ	PR	gen|acc-gen
+напротиве	PR	gen|acc-gen
+поверх	PR	gen|acc-gen
+поверхъ	PR	gen|acc-gen
+впереди	PR	gen|acc-gen
+вблиз	PR	gen|acc-gen
+вблизи	PR	gen|acc-gen
+вблизу	PR	gen|acc-gen
+поблиз	PR	gen|acc-gen
+поблизку	PR	gen|acc-gen
+поблизу	PR	gen|acc-gen
+позади	PR	gen|acc-gen
+позаде	PR	gen|acc-gen
+позадь	PR	gen|acc-gen
+позадѣ	PR	gen|acc-gen
+позад	PR	gen|acc-gen
+позади	ADV	
+позаде	ADV	
+позадь	ADV	
+позадѣ	ADV	
+позад	ADV	
+выше	PR	gen|acc-gen
+вышѣ	PR	gen|acc-gen
+выше	ADV	
+вышѣ	ADV	
+повыше	PR	gen|acc-gen
+повыше	ADV	
+сверх	PR	gen|acc|acc-gen
+сверхъ	PR	gen|acc|acc-gen
+сверхь	PR	gen|acc|acc-gen
+сверху	PR	gen|acc-gen
+сверх	ADV	
+сверху	ADV	
+наподобие	PR	gen|acc-gen
+ниже	PR	gen|acc-gen
+ниж	PR	gen|acc-gen
+нижа	PR	gen|acc-gen
+ниже	PR	gen|acc-gen
+ниже	ADV	
+вслед	PR	gen|acc-gen
+вследъ	PR	gen|acc-gen
+въслед	PR	gen|acc-gen
+вослед	PR	gen|acc-gen
+воследъ	PR	gen|acc-gen
+вслед	ADV	
+вследъ	ADV	
+въслед	ADV	
+вослед	ADV	
+воследь	ADV	
+воследъ	ADV	
+взамен	ADV	
+посередине	ADV	
+превыше	PR	gen|acc-gen
+превыше	ADV	
+сзади	PR	gen|acc-gen
+сзади	ADV	
+съзади	PR	gen|acc-gen
+съзади	ADV	
+вперед	PR	gen|ins
+впередъ	PR	gen|ins
+вперед	ADV	
+впередъ	ADV	
+впередь	ADV	
+впереди	ADV	
+впереди	PR	gen|acc-gen
+кругом	PR	gen|acc-gen
+кругомъ	PR	gen|acc-gen
+кругом	ADV	
+кругомъ	ADV	
+изнутра	ADV	
+изнутръ	ADV	
+изнутри	PR	gen|acc-gen
+изнутри	ADV	
+изнутрь	PR	gen|acc-gen
+супротив	PR	gen|acc-gen
+супротив	ADV	
+супротивъ	PR	gen|acc-gen
+супротивъ	ADV	
+супротиву	PR	gen|acc-gen
+супротиву	ADV	
+супротиво	PR	gen|acc-gen
+вглубь	ADV	
+окрест	PR	gen|dat
+окрестъ	PR	gen
+окресть	PR	gen
+окрест	ADV	
+окрестъ	ADV	
+окресть	ADV	
+по-за	PR	acc|dat
+
+
+Сокращения
+
+(в) во_дворе
+(д) двор
+(м) место
+(лав) лавка
+вол. волость
+волл. волости
+д. деревня
+дд. деревни
+дрв. деревня
+коп. копна
+поч. починок
+почч. починки
+пус. пустошь
+пуст. пустошь
+пустт. пустоши
+с. село
+сс. села
+ст. стан
+стт. станы
+сц. сельцо
+сцц. сельца
+сщ. селище
+сщщ. селища
+у. уезд
+уу. уезды
+чел. человек
+с дд. с деревнями
+с пустт. с пустошами
+с сщщ. с селищами
+с почч. с починками
+с сестр. с сестрами
+ц. царь
+ц-ч царевич
+кн. князь
+в. кн. великий князь
+кнг. княгиня
+иг. игумен
+арх. архиепископ
+патр. патриарх
+м-рь монастырь
+м-ря монастыря
+м-рю монастырю
+м-ский монастырский
+р. рубль
