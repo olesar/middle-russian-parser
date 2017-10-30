@@ -1,0 +1,9 @@
+-paradigm: V11a
+ -flex: <0>.ны
+  gramm: partcp,pass,past,pl  # gender,case?
+ -flex: <0>.но
+  gramm: partcp,pass,past,sg,n,nom
+ -flex: <0>.на
+  gramm: partcp,pass,past,sg,f,nom
+ -flex: <0>.нъ
+  gramm: partcp,pass,past,sg,m,nom
