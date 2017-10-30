@@ -10,7 +10,15 @@
  -flex: <0>.ныи
   gramm: partcp,pass,past,sg,m,nom
  -flex: <0>.наго
-  gramm: partcp,pass,past,sg,m,acc-gender
- -flex: <0>.ныи
-  gramm: partcp,pass,past,sg,m,nom
+  gramm: partcp,pass,past,sg,m,acc-gen
+ -flex: <0>.ному
+  gramm: partcp,pass,past,sg,m,dat
+ -flex: <0>.въ
+  gramm: partcp,act,past,sg,m,nom,brev
+ -flex: <0>.выи
+  gramm: partcp,act,past,sg,m,nom
+ -flex: <0>.вшаго
+  gramm: partcp,act,past,sg,m,acc-gen
+ -flex: <0>.вшему//<0>.вшю
+  gramm: partcp,act,past,sg,m,dat
 
