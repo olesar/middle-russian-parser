@@ -6,4 +6,11 @@
  -flex: <0>.на
   gramm: partcp,pass,past,sg,f,nom
  -flex: <0>.нъ
+  gramm: partcp,pass,past,sg,m,nom  # brev?
+ -flex: <0>.ныи
   gramm: partcp,pass,past,sg,m,nom
+ -flex: <0>.наго
+  gramm: partcp,pass,past,sg,m,acc-gender
+ -flex: <0>.ныи
+  gramm: partcp,pass,past,sg,m,nom
+
