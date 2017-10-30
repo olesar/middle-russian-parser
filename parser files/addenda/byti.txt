@@ -11,7 +11,7 @@
   gramm: perf,pl,n
  -flex: <0>.были//<0>.былы
   gramm: perf,pl,f
- -flex: <0>.быть//<0>.быти//<0>.бысть
+ -flex: <0>.быть//<0>.быти//<0>.бысть//<0>.быто
   gramm: inf
  -flex: <0>.буди
   gramm: imper,sg,2p
@@ -45,11 +45,11 @@
   gramm: indic,imperf,pl,1p
  -flex: <0>.быле//<0>.былѣ
   gramm: perf,du,f
- -flex: <0>.быхъ//<0>.бѣхъ//<0>.бяхъ//<0>.бехъ
+ -flex: <0>.быхъ//<0>.бѣхъ//<0>.бяхъ//<0>.бехъ//<0>.быхь
   gramm: indic,imperf,sg,1p
- -flex: <0>.бѣ//<0>.бяше
-  gramm: indic,imperf,sg,2p
  -flex: <0>.бяше
+  gramm: indic,imperf,sg,2p
+ -flex: <0>.бяше//<0>.быше
   gramm: indic,imperf,sg,3p
  -flex: <0>.бѣхова//<0>.бехова//<0>.бехове//<0>.бѣховѣ
   gramm: indic,aor,du,1p
@@ -86,28 +86,28 @@
  -flex: <0>.была
   gramm: perf,sg,f
  -flex: <0>.будете
-  gramm: analyt,indic,praes,pl,2p
- -flex: <0>.будю//<0>.будоу//<0>.будутъ//<0>.будуть
-  gramm: analyt,indic,praes,pl,3p
+  gramm: analyt,indic,fut,pl,2p
+ -flex: <0>.будоу//<0>.будутъ//<0>.будуть
+  gramm: analyt,indic,fut,pl,3p
  -flex: <0>.будемъ//<0>.будеме
-  gramm: analyt,indic,praes,pl,1p
+  gramm: analyt,indic,fut,pl,1p
  -flex: <0>.бысть
   gramm: analyt,indic,aor,sg,3p
  -flex: <0>.бысть
   gramm: analyt,indic,aor,sg,2p
  -flex: <0>.бѹдевѣ//<0>.будева//<0>.будеве//<0>.будевѣ
-  gramm: analyt,indic,praes,du,1p
+  gramm: analyt,indic,fut,du,1p
  -flex: <0>.будета//<0>.будете//<0>.будетѣ
-  gramm: analyt,indic,praes,du,3p
+  gramm: analyt,indic,fut,du,3p
  -flex: <0>.будета//<0>.будете//<0>.будетѣ
-  gramm: analyt,indic,praes,du,2p
+  gramm: analyt,indic,fut,du,2p
  -flex: <0>.быховѣ//<0>.быхова//<0>.быхове
   gramm: analyt,indic,aor,du,1p
  -flex: <0>.быстѣ//<0>.быста//<0>.бысте
   gramm: analyt,indic,aor,du,2p
  -flex: <0>.быстѣ//<0>.быста//<0>.бысте
   gramm: analyt,indic,aor,du,3p
- -flex: <0>.быша//<0>.бышѧ
+ -flex: <0>.быша//<0>.бышѧ//<0>.быше
   gramm: analyt,indic,aor,pl,3p
  -flex: <0>.бысте
   gramm: analyt,indic,aor,pl,2p
@@ -116,8 +116,8 @@
  -flex: <0>.быхъ
   gramm: analyt,indic,aor,sg,1p
  -flex: <0>.буду
-  gramm: analyt,indic,praes,sg,1p
- -flex: <0>.будеши
-  gramm: analyt,indic,praes,sg,2p
+  gramm: analyt,indic,fut,sg,1p
+ -flex: <0>.будеши//<0>.будешь
+  gramm: analyt,indic,fut,sg,2p
  -flex: <0>.будеть//<0>.будетъ//<0>.буде
-  gramm: analyt,indic,praes,sg,3p
+  gramm: analyt,indic,fut,sg,3p
