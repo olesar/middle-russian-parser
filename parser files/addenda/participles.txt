@@ -199,16 +199,24 @@
   gramm: partcp,pass,past,du,n,nom,brev
 
   
- -flex: <0>.въ
+ -flex: <0>.въ//<0>.вши//<0>.въши<0>.въши//<0>.вшы//<0>.вше//<0>.вьше//<0>.въше
   gramm: ger,past
- -flex: <0>.въ
-  gramm: partcp,act,past,sg,m,nom,brev
  -flex: <0>.выи//<0>.вый//<0>.вшии//<0>.вший
   gramm: partcp,act,past,sg,m,nom
+ -flex: <0>.вшаго//<0>.вшего
+  gramm: partcp,act,past,sg,m,acc,anim
  -flex: <0>.вшаго//<0>.вшего//<0>.выи//<0>.вый//<0>.вшии//<0>.вший
-  gramm: partcp,act,past,sg,m,acc
+  gramm: partcp,act,past,sg,m,acc,inan
  -flex: <0>.вшаго//<0>.вшего
   gramm: partcp,act,past,sg,m,gen
  -flex: <0>.вшему//<0>.вшю//<0>.вшу
   gramm: partcp,act,past,sg,m,dat 
+# добавить окончания A1s
+
+# -ющий
+# добавить окончания A1s
+
+# -емый
+# те же, что -нный
+
 
